@@ -66,7 +66,6 @@ aron-2.gif
 aron-3.gif
 aron.gif
 articuno.gif
-asdf.txt
 audino.gif
 aurorus-2.gif
 aurorus-3.gif
