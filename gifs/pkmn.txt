@@ -1,3 +1,5 @@
+Source: http://www.pkparaiso.com/xy/sprites_pokemon.php
+
 abomasnow-2.gif
 abomasnow-3.gif
 abomasnow-4.gif
