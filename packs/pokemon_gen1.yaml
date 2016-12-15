@@ -1,0 +1,304 @@
+title: Gen1Pokemon
+emojis:
+  - name: gen1-bulbasaur
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/001.png
+  - name: gen1-ivysaur
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/002.png
+  - name: gen1-venusaur
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/003.png
+  - name: gen1-charmander
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/004.png
+  - name: gen1-charmeleon
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/005.png
+  - name: gen1-charizard
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/006.png
+  - name: gen1-squirtle
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/007.png
+  - name: gen1-wartortle
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/008.png
+  - name: gen1-blastoise
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/009.png
+  - name: gen1-caterpie
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/010.png
+  - name: gen1-metapod
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/011.png
+  - name: gen1-butterfree
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/012.png
+  - name: gen1-weedle
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/013.png
+  - name: gen1-kakuna
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/014.png
+  - name: gen1-beedrill
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/015.png
+  - name: gen1-pidgey
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/016.png
+  - name: gen1-pidgeotto
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/017.png
+  - name: gen1-pidgeot
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/018.png
+  - name: gen1-rattata
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/019.png
+  - name: gen1-raticate
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/020.png
+  - name: gen1-spearow
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/021.png
+  - name: gen1-fearow
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/022.png
+  - name: gen1-ekans
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/023.png
+  - name: gen1-arbok
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/024.png
+  - name: gen1-pikachu
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/025.png
+  - name: gen1-raichu
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/026.png
+  - name: gen1-sandshrew
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/027.png
+  - name: gen1-sandslash
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/028.png
+  - name: gen1-nidoran-f
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/029.png
+  - name: gen1-nidorina
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/030.png
+  - name: gen1-nidoqueen
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/031.png
+  - name: gen1-nidoran-m
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/032.png
+  - name: gen1-nidorino
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/033.png
+  - name: gen1-nidoking
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/034.png
+  - name: gen1-clefairy
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/035.png
+  - name: gen1-clefable
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/036.png
+  - name: gen1-vulpix
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/037.png
+  - name: gen1-ninetales
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/038.png
+  - name: gen1-jigglypuff
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/039.png
+  - name: gen1-wigglytuff
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/040.png
+  - name: gen1-zubat
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/041.png
+  - name: gen1-golbat
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/042.png
+  - name: gen1-oddish
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/043.png
+  - name: gen1-gloom
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/044.png
+  - name: gen1-vileplume
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/045.png
+  - name: gen1-paras
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/046.png
+  - name: gen1-parasect
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/047.png
+  - name: gen1-venonat
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/048.png
+  - name: gen1-venomoth
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/049.png
+  - name: gen1-diglett
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/050.png
+  - name: gen1-dugtrio
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/051.png
+  - name: gen1-meowth
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/052.png
+  - name: gen1-persian
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/053.png
+  - name: gen1-psyduck
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/054.png
+  - name: gen1-golduck
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/055.png
+  - name: gen1-mankey
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/056.png
+  - name: gen1-primeape
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/057.png
+  - name: gen1-growlithe
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/058.png
+  - name: gen1-arcanine
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/059.png
+  - name: gen1-poliwag
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/060.png
+  - name: gen1-poliwhirl
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/061.png
+  - name: gen1-poliwrath
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/062.png
+  - name: gen1-abra
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/063.png
+  - name: gen1-kadabra
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/064.png
+  - name: gen1-alakazam
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/065.png
+  - name: gen1-machop
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/066.png
+  - name: gen1-machoke
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/067.png
+  - name: gen1-machamp
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/068.png
+  - name: gen1-bellsprout
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/069.png
+  - name: gen1-weepinbell
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/070.png
+  - name: gen1-victreebel
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/071.png
+  - name: gen1-tentacool
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/072.png
+  - name: gen1-tentacruel
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/073.png
+  - name: gen1-geodude
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/074.png
+  - name: gen1-graveler
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/075.png
+  - name: gen1-golem
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/076.png
+  - name: gen1-ponyta
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/077.png
+  - name: gen1-rapidash
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/078.png
+  - name: gen1-slowpoke
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/079.png
+  - name: gen1-slowbro
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/080.png
+  - name: gen1-magnemite
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/081.png
+  - name: gen1-magneton
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/082.png
+  - name: gen1-farfetch'd
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/083.png
+  - name: gen1-doduo
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/084.png
+  - name: gen1-dodrio
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/085.png
+  - name: gen1-seel
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/086.png
+  - name: gen1-dewgong
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/087.png
+  - name: gen1-grimer
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/088.png
+  - name: gen1-muk
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/089.png
+  - name: gen1-shellder
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/090.png
+  - name: gen1-cloyster
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/091.png
+  - name: gen1-gastly
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/092.png
+  - name: gen1-haunter
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/093.png
+  - name: gen1-gengar
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/094.png
+  - name: gen1-onix
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/095.png
+  - name: gen1-drowzee
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/096.png
+  - name: gen1-hypno
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/097.png
+  - name: gen1-krabby
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/098.png
+  - name: gen1-kingler
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/099.png
+  - name: gen1-voltorb
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/100.png
+  - name: gen1-electrode
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/101.png
+  - name: gen1-exeggcute
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/102.png
+  - name: gen1-exeggutor
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/103.png
+  - name: gen1-cubone
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/104.png
+  - name: gen1-marowak
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/105.png
+  - name: gen1-hitmonlee
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/106.png
+  - name: gen1-hitmonchan
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/107.png
+  - name: gen1-lickitung
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/108.png
+  - name: gen1-koffing
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/109.png
+  - name: gen1-weezing
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/110.png
+  - name: gen1-rhyhorn
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/111.png
+  - name: gen1-rhydon
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/112.png
+  - name: gen1-chansey
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/113.png
+  - name: gen1-tangela
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/114.png
+  - name: gen1-kangaskhan
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/115.png
+  - name: gen1-horsea
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/116.png
+  - name: gen1-seadra
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/117.png
+  - name: gen1-goldeen
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/118.png
+  - name: gen1-seaking
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/119.png
+  - name: gen1-staryu
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/120.png
+  - name: gen1-starmie
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/121.png
+  - name: gen1-mr.mime
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/122.png
+  - name: gen1-scyther
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/123.png
+  - name: gen1-jynx
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/124.png
+  - name: gen1-electabuzz
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/125.png
+  - name: gen1-magmar
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/126.png
+  - name: gen1-pinsir
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/127.png
+  - name: gen1-tauros
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/128.png
+  - name: gen1-magikarp
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/129.png
+  - name: gen1-gyarados
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/130.png
+  - name: gen1-lapras
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/131.png
+  - name: gen1-ditto
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/132.png
+  - name: gen1-eevee
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/133.png
+  - name: gen1-vaporeon
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/134.png
+  - name: gen1-jolteon
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/135.png
+  - name: gen1-flareon
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/136.png
+  - name: gen1-porygon
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/137.png
+  - name: gen1-omanyte
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/138.png
+  - name: gen1-omastar
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/139.png
+  - name: gen1-kabuto
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/140.png
+  - name: gen1-kabutops
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/141.png
+  - name: gen1-aerodactyl
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/142.png
+  - name: gen1-snorlax
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/143.png
+  - name: gen1-articuno
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/144.png
+  - name: gen1-zapdos
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/145.png
+  - name: gen1-moltres
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/146.png
+  - name: gen1-dratini
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/147.png
+  - name: gen1-dragonair
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/148.png
+  - name: gen1-dragonite
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/149.png
+  - name: gen1-mewtwo
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/150.png
+  - name: gen1-mew
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pokemon_gen1/151.png

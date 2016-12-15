@@ -1,0 +1,102 @@
+title: SWEmoji
+emojis:
+  - name: sw-ackbar
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swAckbar.png
+  - name: sw-anakin
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swAnakin.png
+  - name: sw-blue
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swBlue.png
+  - name: sw-boba
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swBoba.png
+  - name: sw-c3pO
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swC3PO.png
+  - name: sw-chewbacca
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swChewbacca.png
+  - name: sw-cloakkenobi
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swCloakKenobi.png
+  - name: sw-deathstar
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swDeathstar.png
+  - name: sw-falcon
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swFalcon.png
+  - name: sw-ghostkenobi
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swGhostKenobi.png
+  - name: sw-ghostyoda
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swGhostYoda.png
+  - name: sw-green
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swGreen.png
+  - name: sw-han
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swHan.png
+  - name: sw-jedi1
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swJedi1.png
+  - name: sw-jedi2
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swJedi2.png
+  - name: sw-jedi3
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swJedi3.png
+  - name: sw-kenobi
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swKenobi.png
+  - name: sw-lando
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swLando.png
+  - name: sw-leia
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swLeia.png
+  - name: sw-luke
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swLuke.png
+  - name: sw-padme
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swPadme.png
+  - name: sw-r2d2
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swR2D2.png
+  - name: sw-r2d2head
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swR2D2Head.png
+  - name: sw-racer
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swRacer.png
+  - name: sw-sith
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swSith.png
+  - name: sw-stormtrooper
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swStormtrooper.png
+  - name: sw-tie
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swTie.png
+  - name: sw-vader
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swVader.png
+  - name: sw-windu
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swWindu.png
+  - name: sw-xwing
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swXwing.png
+  - name: sw-yoda
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/swYoda.png
+  - name: tfa-bb8
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/tfaBB8.png
+  - name: tfa-bb8head
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/tfaBB8Head.png
+  - name: tfa-desertrey
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/tfaDesertRey.png
+  - name: tfa-falcon
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/tfaFalcon.png
+  - name: tfa-finn
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/tfaFinn.png
+  - name: tfa-han
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/tfaHan.png
+  - name: tfa-kylo
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/tfaKylo.png
+  - name: tfa-kyloship
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/tfaKyloShip.png
+  - name: tfa-leia
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/tfaLeia.png
+  - name: tfa-lightsaber
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/tfaLightsaber.png
+  - name: tfa-phasma
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/tfaPhasma.png
+  - name: tfa-pilotpoe
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/tfaPilotPoe.png
+  - name: tfa-poe
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/tfaPoe.png
+  - name: tfa-rey
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/tfaRey.png
+  - name: tfa-stormtrooper
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/tfaStormtrooper.png
+  - name: tfa-tie
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/tfaTie.png
+  - name: tfa-vadercrushed
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/tfaVaderCrushed.png
+  - name: tfa-xwingblue
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/tfaXwingBlue.png
+  - name: tfa-xwingorange
+    src: https://s3.amazonaws.com/benspotatoes/emojis/swemoji/tfaXwingOrange.png

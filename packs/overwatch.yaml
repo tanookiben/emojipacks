@@ -1,0 +1,73 @@
+title: Overwatch
+emojis:
+  - name: dva
+    src: https://s3.amazonaws.com/benspotatoes/emojis/overwatch/dva.png
+  - name: genji
+    src: https://s3.amazonaws.com/benspotatoes/emojis/overwatch/genji.png
+  - name: hanzo
+    src: https://s3.amazonaws.com/benspotatoes/emojis/overwatch/hanzo.png
+  - name: junkrat
+    src: https://s3.amazonaws.com/benspotatoes/emojis/overwatch/junkrat.png
+  - name: lucio
+    src: https://s3.amazonaws.com/benspotatoes/emojis/overwatch/lucio.png
+  - name: mccree
+    src: https://s3.amazonaws.com/benspotatoes/emojis/overwatch/mccree.png
+  - name: mei
+    src: https://s3.amazonaws.com/benspotatoes/emojis/overwatch/mei.png
+  - name: mercy
+    src: https://s3.amazonaws.com/benspotatoes/emojis/overwatch/mercy.png
+  - name: pharah
+    src: https://s3.amazonaws.com/benspotatoes/emojis/overwatch/pharah.png
+  - name: reaper
+    src: https://s3.amazonaws.com/benspotatoes/emojis/overwatch/reaper.png
+  - name: reinhardt
+    src: https://s3.amazonaws.com/benspotatoes/emojis/overwatch/reinhardt.png
+  - name: roadhog
+    src: https://s3.amazonaws.com/benspotatoes/emojis/overwatch/roadhog.png
+  - name: soldier
+    src: https://s3.amazonaws.com/benspotatoes/emojis/overwatch/soldier.png
+  - name: symmetra
+    src: https://s3.amazonaws.com/benspotatoes/emojis/overwatch/symmetra.png
+  - name: torbjorn
+    src: https://s3.amazonaws.com/benspotatoes/emojis/overwatch/torbjorn.png
+  - name: tracer
+    src: https://s3.amazonaws.com/benspotatoes/emojis/overwatch/tracer.png
+  - name: widowmaker
+    src: https://s3.amazonaws.com/benspotatoes/emojis/overwatch/widowmaker.png
+  - name: winston
+    src: https://s3.amazonaws.com/benspotatoes/emojis/overwatch/winston.png
+  - name: zarya
+    src: https://s3.amazonaws.com/benspotatoes/emojis/overwatch/zarya.png
+  - name: zenyatta
+    src: https://s3.amazonaws.com/benspotatoes/emojis/overwatch/zenyatta.png
+  - name: biblewinston
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/a_seagull/biblewinston.png
+  - name: feelsbadtorb
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/a_seagull/feelsbadtorb.png
+  - name: feelsjunkrat
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/a_seagull/feelsjunkrat.png
+  - name: lootbox
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/a_seagull/lootbox.png
+  - name: pogtrace
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/a_seagull/pogtrace.png
+  - name: triggered
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/a_seagull/triggered.png
+  - name: moon-gasm
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moonGASM.png
+  - name: moon-heart
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moonHEART.png
+  - name: moon-pachi
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moonPACHI.png
+  - name: moon-satan
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moonSATAN.png
+  - name: moon-smug
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moonSMUG.png
+  - name: moon-thump
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moonTHUMP.png
+  - name: moon-hey
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moonHEY.png
+  - name: moon-wink
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moonWINK.png
+  - name: moon-xd
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moonXD.png
+
