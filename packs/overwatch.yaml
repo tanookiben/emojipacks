@@ -1,5 +1,19 @@
 title: Overwatch
 emojis:
+  - name: ow_bronze
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/overwatch/ow_bronze.png
+  - name: ow_diamond
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/overwatch/ow_diamond.png
+  - name: ow_gold
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/overwatch/ow_gold.png
+  - name: ow_grandmasters
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/overwatch/ow_grandmasters.png
+  - name: ow_masters
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/overwatch/ow_masters.png
+  - name: ow_platinum
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/overwatch/ow_platinum.png
+  - name: ow_silver
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/overwatch/ow_silver.png
   - name: dva
     src: https://s3.amazonaws.com/benspotatoes/emojis/overwatch/dva.png
   - name: genji
@@ -52,22 +66,99 @@ emojis:
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/a_seagull/pogtrace.png
   - name: triggered
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/a_seagull/triggered.png
-  - name: moon-gasm
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moonGASM.png
-  - name: moon-heart
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moonHEART.png
-  - name: moon-pachi
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moonPACHI.png
-  - name: moon-satan
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moonSATAN.png
-  - name: moon-smug
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moonSMUG.png
-  - name: moon-thump
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moonTHUMP.png
-  - name: moon-hey
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moonHEY.png
-  - name: moon-wink
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moonWINK.png
-  - name: moon-xd
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moonXD.png
-
+  - name: moon2-1
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon21.png
+  - name: moon2-2
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon22.png
+  - name: moon2-3
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon23.png
+  - name: moon2-4
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon24.png
+  - name: moon2-amazing
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2AMAZING.png
+  - name: moon2-aww
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2AWW.png
+  - name: moon2-banned
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2BANNED.png
+  - name: moon2-boop
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2BOOP.png
+  - name: moon2-coffee
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2COFFEE.png
+  - name: moon2-cool
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2COOL.png
+  - name: moon2-creep
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2CREEP.png
+  - name: moon2-cute
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2CUTE.png
+  - name: moon2-dumb
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2DUMB.png
+  - name: moon2-feels
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2FEELS.png
+  - name: moon2-gasm
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2GASM.png
+  - name: moon2-good
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2GOOD.png
+  - name: moon2-gottem
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2GOTTEM.png
+  - name: moon2-gums
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2GUMS.png
+  - name: moon2-hahaa
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2HAHAA.png
+  - name: moon2-heart
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2HEART.png
+  - name: moon2-hey
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2HEY.png
+  - name: moon2-hnng
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2HNNG.png
+  - name: moon2-kisses
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2KISSES.png
+  - name: moon2-l
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2L.png
+  - name: moon2-lol
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2LUL.png
+  - name: moon2-lult
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2LULT.png
+  - name: moon2-mlady
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2MLADY.png
+  - name: moon2-mlem
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2MLEM.png
+  - name: moon2-ooo
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2OOO.png
+  - name: moon2-plsno
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2PLSNO.png
+  - name: moon2-rip
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2RIP.png
+  - name: moon2-shrug
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2SHRUG.png
+  - name: moon2-sleep
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2SLEEP.png
+  - name: moon2-smag
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2SMAG.png
+  - name: moon2-smug
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2SMUG.png
+  - name: moon2-t
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2T.png
+  - name: moon2-teehee
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2TEEHEE.png
+  - name: moon2-triggered
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2TRIGGERED.png
+  - name: moon2-vape
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2VAPE.png
+  - name: moon2-whine
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2WHINE.png
+  - name: moon2-why
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2WHY.png
+  - name: moon2-winky
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2WINKY.png
+  - name: moon2-woo
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2WOO.png
+  - name: moon2-woop
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2WOOP.png
+  - name: moon2-wow
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2WOW.png
+  - name: moon2-wut
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2WUT.png
+  - name: moon2-xd
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2XD.png
+  - name: moon2-ye
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/moonmoon_ow/moon2YE.png

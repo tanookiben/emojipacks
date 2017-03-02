@@ -1,0 +1,126 @@
+title: Llama
+emojis:
+  - name: llama_angry
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_angry.gif
+  - name: llama_awesome
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_awesome.gif
+  - name: llama_bleh
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_bleh.gif
+  - name: llama_blinking
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_blinking.gif
+  - name: llama_blood_tears
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_blood_tears.gif
+  - name: llama_blush
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_blush.gif
+  - name: llama_bored
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_bored.gif
+  - name: llama_come_here
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_come_here.gif
+  - name: llama_confused
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_confused.gif
+  - name: llama_cry
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_cry.gif
+  - name: llama_delicious
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_delicious.gif
+  - name: llama_depressed
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_depressed.gif
+  - name: llama_desire
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_desire.gif
+  - name: llama_dude
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_dude.gif
+  - name: llama_eager
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_eager.gif
+  - name: llama_facepalm
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_facepalm.gif
+  - name: llama_fanning
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_fanning.gif
+  - name: llama_flower_sparkles
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_flower_sparkles.gif
+  - name: llama_grumpy
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_grumpy.gif
+  - name: llama_hiding
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_hiding.gif
+  - name: llama_hopeless
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_hopeless.gif
+  - name: llama_horror
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_horror.gif
+  - name: llama_hug
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_hug.gif
+  - name: llama_i_love_mah_fudz
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_i_love_mah_fudz.gif
+  - name: llama_im_pretty
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_im_pretty.gif
+  - name: llama_in_dreamland
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_in_dreamland.gif
+  - name: llama_laughing
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_laughing.gif
+  - name: llama_lazy
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_lazy.gif
+  - name: llama_left_and_right
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_left_and_right.gif
+  - name: llama_lovely_blinking
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_lovely_blinking.gif
+  - name: llama_mah_burger
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_mah_burger.gif
+  - name: llama_mah_fudz
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_mah_fudz.gif
+  - name: llama_mah_yummy_fud
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_mah_yummy_fud.gif
+  - name: llama_mona_llama
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_mona_llama.gif
+  - name: llama_no_clue
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_no_clue.gif
+  - name: llama_nose_bleed
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_nose_bleed.gif
+  - name: llama_orly
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_orly.gif
+  - name: llama_pinch_cheek
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_pinch_cheek.gif
+  - name: llama_pretty
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_pretty.gif
+  - name: llama_pretty_please
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_pretty_please.gif
+  - name: llama_ramen
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_ramen.gif
+  - name: llama_rawr_i_ll_get_you
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_rawr_i_ll_get_you.gif
+  - name: llama_say_cheese
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_say_cheese.gif
+  - name: llama_scared
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_scared.gif
+  - name: llama_sexy_smile
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_sexy_smile.gif
+  - name: llama_shy
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_shy.gif
+  - name: llama_sick
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_sick.gif
+  - name: llama_sleepy
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_sleepy.gif
+  - name: llama_smug
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_smug.gif
+  - name: llama_sniff
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_sniff.gif
+  - name: llama_sparkles
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_sparkles.gif
+  - name: llama_speechless
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_speechless.gif
+  - name: llama_squish
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_squish.gif
+  - name: llama_stroll
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_stroll.gif
+  - name: llama_sweat
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_sweat.gif
+  - name: llama_tea
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_tea.gif
+  - name: llama_teehee
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_teehee.gif
+  - name: llama_waving
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_waving.gif
+  - name: llama_whistling
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_whistling.gif
+  - name: llama_worried
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_worried.gif
+  - name: llama_yawn
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_yawn.gif
+  - name: llama_yay
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_yay.gif

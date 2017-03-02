@@ -1,0 +1,104 @@
+title: Thonking
+emojis:
+  - name: badshit
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/badshit.png
+  - name: considering
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/considering.png
+  - name: contemplating
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/contemplating.png
+  - name: cookiethinker
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/cookiethinker.png
+  - name: gnikniht
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/gnikniht.png
+  - name: hyperthink
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/hyperthink.png
+  - name: hyperthonk
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/hyperthonk.png
+  - name: overthinking
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/overthinking.gif
+  - name: owothink
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/owothink.png
+  - name: photoing
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/photoing.png
+  - name: pondering
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/pondering.png
+  - name: smrk
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/smrk.png
+  - name: texting
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/texting.png
+  - name: th1
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/th1.png
+  - name: th2
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/th2.png
+  - name: th3
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/th3.png
+  - name: th4
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/th4.png
+  - name: thenkeng
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/thenkeng.png
+  - name: thenking
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/thenking.png
+  - name: thinging
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/thinging.png
+  - name: think
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/think.png
+  - name: thinkdrops
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/thinkdrops.png
+  - name: thinkeng
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/thinkeng.png
+  - name: thinkery
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/thinkery.png
+  - name: thinking2
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/thinking2.png
+  - name: thinkingfeels
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/thinkingfeels.png
+  - name: thinkingsmirk
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/thinkingsmirk.png
+  - name: thinkingxd
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/thinkingxd.png
+  - name: thinkking
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/thinkking.png
+  - name: thinknohands
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/thinknohands.png
+  - name: thinkong
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/thinkong.png
+  - name: thinkportal
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/thinkportal.png
+  - name: thinkpotato
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/thinkpotato.png
+  - name: thinkpride
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/thinkpride.png
+  - name: thinkthinkthinking
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/thinkthinkthinking.gif
+  - name: thonknohands
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/thonknohands.png
+  - name: thonkrolly
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/thonkrolly.png
+  - name: thoughts
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/thoughts.png
+  - name: thqnkain
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/thqnkain.png
+  - name: thrinking
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/thrinking.png
+  - name: thunkong
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/thunkong.png
+  - name: thynk
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/thynk.png
+  - name: tiiiiiilting
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/tiiiiiilting.png
+  - name: tilting
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/tilting.png
+  - name: tomatothink
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/tomatothink.png
+  - name: tunking
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/tunking.png
+  - name: thinkfast
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/thinkfast.gif
+  - name: thinkback
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/thinkback.gif
+  - name: hyperthinkfast
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/hyperthinkfast.gif
+  - name: thinkthink
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/thinkthink.png
+  - name: blanking
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/blanking.png
