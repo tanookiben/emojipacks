@@ -14,3 +14,5 @@ emojis:
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/datboi/helphow2gif.gif
   - name: theregodatboi
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/datboi/theregodatboi.gif
+  - name: wheredatboi
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/datboi/wheredatboi.gif
