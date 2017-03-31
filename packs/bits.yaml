@@ -42,3 +42,15 @@ emojis:
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/bits/swiftrage10000.gif
   - name: swiftrage5000
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/bits/swiftrage5000.gif
+  - name: chuckcheer1
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/bits/chuckcheer1.gif
+  - name: chuckcheer100
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/bits/chuckcheer100.gif
+  - name: chuckcheer1000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/bits/chuckcheer1000.gif
+  - name: chuckcheer5000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/bits/chuckcheer5000.gif
+  - name: chuckcheer10000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/bits/chuckcheer10000.gif
+  - name: chuckcheer100000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/bits/chuckcheer100000.gif
