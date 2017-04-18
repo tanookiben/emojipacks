@@ -1,0 +1,86 @@
+title: Pusheen
+emojis:
+  - name: pusheen_awyiss
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/awyiss.png
+  - name: pusheen_blush
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/blush.png
+  - name: pusheen_bookface
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/bookface.png
+  - name: pusheen_box
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/box.png
+  - name: pusheen_cake
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/cake.png
+  - name: pusheen_coolcat
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/coolcat.png
+  - name: pusheen_cry
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/cry.png
+  - name: pusheen_dj
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/dj.png
+  - name: pusheen_donut
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/donut.png
+  - name: pusheen_dotdotdot
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/dotdotdot.png
+  - name: pusheen_dough
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/dough.png
+  - name: pusheen_exercise
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/exercise.png
+  - name: pusheen_fet
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/fet.png
+  - name: pusheen_giggle
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/giggle.png
+  - name: pusheen_hat
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/hat.png
+  - name: pusheen_hi
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/hi.png
+  - name: pusheen_laugh
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/laugh.png
+  - name: pusheen_love
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/love.png
+  - name: pusheen_mad
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/mad.png
+  - name: pusheen_omg
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/omg.png
+  - name: pusheen_paw
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/paw.png
+  - name: pusheen_piano
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/piano.png
+  - name: pusheen_pizza
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/pizza.png
+  - name: pusheen_popcorn
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/popcorn.png
+  - name: pusheen_purr
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/purr.png
+  - name: pusheen_puttputt
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/puttputt.png
+  - name: pusheen_ramen
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/ramen.png
+  - name: pusheen_rusrs
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/rusrs.png
+  - name: pusheen_sad
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/sad.png
+  - name: pusheen_scribble
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/scribble.png
+  - name: pusheen_sippin
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/sippin.png
+  - name: pusheen_sleep
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/sleep.png
+  - name: pusheen_sparkle
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/sparkle.png
+  - name: pusheen_sushi
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/sushi.png
+  - name: pusheen_tacka
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/tacka.png
+  - name: pusheen_tummyrub
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/tummyrub.png
+  - name: pusheen_umm
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/umm.png
+  - name: pusheen_unicorn
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/unicorn.png
+  - name: pusheen_wah
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/wah.png
+  - name: pusheen_whoa
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/whoa.png
+  - name: pusheen_wut
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/wut.png
+  - name: pusheen_yarn
+    src: https://s3.amazonaws.com/benspotatoes/emojis/pusheen/yarn.png
