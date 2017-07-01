@@ -54,3 +54,13 @@ emojis:
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/bits/chuckcheer10000.gif
   - name: chuckcheer100000
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/bits/chuckcheer100000.gif
+  - name: nut1
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/bits/nut1.png
+  - name: nut2
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/bits/nut2.png
+  - name: nut3
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/bits/nut3.png
+  - name: nut4
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/bits/nut4.png
+  - name: nut5
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/bits/nut5.png
