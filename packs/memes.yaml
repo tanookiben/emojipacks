@@ -1,4 +1,4 @@
-title: benderp
+title: memes
 emojis:
   - name: mmmnah
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/misc/mmmnah.png
@@ -7,4 +7,6 @@ emojis:
   - name: drakenah
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/misc/drakenah.png
   - name: fidget
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/misc.spinner.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/misc/spinner.png
+  - name: terminator
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/misc/terminatorthumbsup.png
