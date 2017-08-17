@@ -48,11 +48,11 @@ emojis:
     src: https://s3.amazonaws.com/benspotatoes/emojis/benderp/ultraderp16.png
   - name: miniderp
     src: https://s3.amazonaws.com/benspotatoes/emojis/benderp/miniderp.png
+  - name: benderp
+    src: https://s3.amazonaws.com/benspotatoes/emojis/benderp/benderp.png
   - name: shui
     src: https://s3.amazonaws.com/benspotatoes/emojis/benderp/notamused.png
   - name: maybeshui
     src: https://s3.amazonaws.com/benspotatoes/emojis/benderp/maybeshui.png
   - name: kappashui
     src: https://s3.amazonaws.com/benspotatoes/emojis/benderp/shui.png
-  - name: sobully
-    src: https://s3.amazonaws.com/benspotatoes/emojis/benderp/sobully.png
