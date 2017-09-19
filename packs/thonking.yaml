@@ -122,3 +122,7 @@ emojis:
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/fidgetthink.png
   - name: thinkfasttsafkniht
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/thinkfasttsafkniht.png
+  - name: smirking
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/smirking.png
+  - name: theenk
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/thonking/theenk.png
