@@ -1,5 +1,29 @@
 title: OWL
 emojis:
+  - name: owlbos
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlbos.png
+  - name: owldal
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owldal.png
+  - name: owlfla
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlfla.png
+  - name: owlgla
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlgla.png
+  - name: owlhou
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlhou.png
+  - name: owlldn
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlldn.png
+  - name: owlnye
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlnye.png
+  - name: owlphi
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlphi.png
+  - name: owlseo
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlseo.png
+  - name: owlsfs
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlsfs.png
+  - name: owlshd
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlshd.png
+  - name: owlval
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlval.png
   - name: owlbos1
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlbos1.gif
   - name: owlbos100
