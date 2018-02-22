@@ -1,0 +1,122 @@
+title: OWL
+emojis:
+  - name: owlbos1
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlbos1.gif
+  - name: owlbos100
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlbos100.gif
+  - name: owlbos1000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlbos1000.gif
+  - name: owlbos5000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlbos5000.gif
+  - name: owlbos10000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlbos10000.gif
+  - name: owldal1
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owldal1.gif
+  - name: owldal100
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owldal100.gif
+  - name: owldal1000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owldal1000.gif
+  - name: owldal5000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owldal5000.gif
+  - name: owldal10000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owldal10000.gif
+  - name: owlfla1
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlfla1.gif
+  - name: owlfla100
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlfla100.gif
+  - name: owlfla1000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlfla1000.gif
+  - name: owlfla5000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlfla5000.gif
+  - name: owlfla10000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlfla10000.gif
+  - name: owlgla1
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlgla1.gif
+  - name: owlgla100
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlgla100.gif
+  - name: owlgla1000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlgla1000.gif
+  - name: owlgla5000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlgla5000.gif
+  - name: owlgla10000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlgla10000.gif
+  - name: owlhou1
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlhou1.gif
+  - name: owlhou100
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlhou100.gif
+  - name: owlhou1000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlhou1000.gif
+  - name: owlhou5000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlhou5000.gif
+  - name: owlhou10000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlhou10000.gif
+  - name: owlldn1
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlldn1.gif
+  - name: owlldn100
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlldn100.gif
+  - name: owlldn1000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlldn1000.gif
+  - name: owlldn5000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlldn5000.gif
+  - name: owlldn10000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlldn10000.gif
+  - name: owlnye1
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlnye1.gif
+  - name: owlnye100
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlnye100.gif
+  - name: owlnye1000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlnye1000.gif
+  - name: owlnye5000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlnye5000.gif
+  - name: owlnye10000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlnye10000.gif
+  - name: owlphi1
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlphi1.gif
+  - name: owlphi100
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlphi100.gif
+  - name: owlphi1000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlphi1000.gif
+  - name: owlphi5000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlphi5000.gif
+  - name: owlphi10000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlphi10000.gif
+  - name: owlseo1
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlseo1.gif
+  - name: owlseo100
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlseo100.gif
+  - name: owlseo1000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlseo1000.gif
+  - name: owlseo5000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlseo5000.gif
+  - name: owlseo10000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlseo10000.gif
+  - name: owlsfs1
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlsfs1.gif
+  - name: owlsfs100
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlsfs100.gif
+  - name: owlsfs1000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlsfs1000.gif
+  - name: owlsfs5000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlsfs5000.gif
+  - name: owlsfs10000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlsfs10000.gif
+  - name: owlshd1
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlshd1.gif
+  - name: owlshd100
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlshd100.gif
+  - name: owlshd1000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlshd1000.gif
+  - name: owlshd5000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlshd5000.gif
+  - name: owlshd10000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlshd10000.gif
+  - name: owlval1
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlval1.gif
+  - name: owlval100
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlval100.gif
+  - name: owlval1000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlval1000.gif
+  - name: owlval5000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlval5000.gif
+  - name: owlval10000
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlval10000.gif
