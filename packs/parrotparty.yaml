@@ -1,11 +1,11 @@
 title: parrotparty
 emojis:
   - name: parrot
-    src: http://cultofthepartyparrot.com/parrots/parrot.gif
+    src: http://cultofthepartyparrot.com/parrots/hd/parrot.gif
   - name: middleparrot
-    src: http://cultofthepartyparrot.com/parrots/middleparrot.gif
+    src: http://cultofthepartyparrot.com/parrots/hd/middleparrot.gif
   - name: rightparrot
-    src: http://cultofthepartyparrot.com/parrots/rightparrot.gif
+    src: http://cultofthepartyparrot.com/parrots/hd/rightparrot.gif
   - name: aussieparrot
     src: http://cultofthepartyparrot.com/parrots/aussieparrot.gif
   - name: gothparrot
@@ -15,17 +15,17 @@ emojis:
   - name: boredparrot
     src: http://cultofthepartyparrot.com/parrots/boredparrot.gif
   - name: shuffleparrot
-    src: http://cultofthepartyparrot.com/parrots/shuffleparrot.gif
+    src: http://cultofthepartyparrot.com/parrots/hd/shuffleparrot.gif
   - name: shufflefurtherparrot
     src: http://cultofthepartyparrot.com/parrots/shufflefurtherparrot.gif
   - name: congaparrot
-    src: http://cultofthepartyparrot.com/parrots/congaparrot.gif
+    src: http://cultofthepartyparrot.com/parrots/hd/congaparrot.gif
   - name: reversecongaparrot
     src: http://cultofthepartyparrot.com/parrots/reversecongaparrot.gif
   - name: partyparrot
     src: http://cultofthepartyparrot.com/parrots/partyparrot.gif
   - name: sadparrot
-    src: http://cultofthepartyparrot.com/parrots/sadparrot.gif
+    src: http://cultofthepartyparrot.com/parrots/hd/sadparrot.gif
   - name: parrotcop
     src: http://cultofthepartyparrot.com/parrots/parrotcop.gif
   - name: fastparrot
@@ -35,20 +35,22 @@ emojis:
   - name: parrotdad
     src: http://cultofthepartyparrot.com/parrots/parrotdad.gif
   - name: dealwithitparrot
-    src: http://cultofthepartyparrot.com/parrots/dealwithitparrot.gif
+    src: http://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif
   - name: fiestaparrot
     src: http://cultofthepartyparrot.com/parrots/fiestaparrot.gif
   - name: pizzaparrot
     src: http://cultofthepartyparrot.com/parrots/pizzaparrot.gif
   - name: hamburgerparrot
     src: http://cultofthepartyparrot.com/parrots/hamburgerparrot.gif
+  - name: bananaparrot
+    src: http://cultofthepartyparrot.com/parrots/bananaparrot.gif
   - name: chillparrot
     src: http://cultofthepartyparrot.com/parrots/chillparrot.gif
   - name: explodyparrot
     src: http://cultofthepartyparrot.com/parrots/explodyparrot.gif
   - name: shufflepartyparrot
     src: http://cultofthepartyparrot.com/parrots/shufflepartyparrot.gif
-  - name: parrot
+  - name: icecreamparrot
     src: http://cultofthepartyparrot.com/parrots/ice-cream-parrot.gif
   - name: sassyparrot
     src: http://cultofthepartyparrot.com/parrots/sassyparrot.gif
@@ -76,3 +78,101 @@ emojis:
     src: http://cultofthepartyparrot.com/parrots/congapartyparrot.gif
   - name: moonwalkingparrot
     src: http://cultofthepartyparrot.com/parrots/moonwalkingparrot.gif
+  - name: thumbsupparrot
+    src: http://cultofthepartyparrot.com/parrots/thumbsupparrot.gif
+  - name: coffeeparrot
+    src: http://cultofthepartyparrot.com/parrots/coffeeparrot.gif
+  - name: parrotwithmustache
+    src: http://cultofthepartyparrot.com/parrots/parrotmustache.gif
+  - name: christmasparrot
+    src: http://cultofthepartyparrot.com/parrots/hd/christmasparrot.gif
+  - name: witnessprotectionparrot
+    src: http://cultofthepartyparrot.com/parrots/witnessprotectionparrot.gif
+  - name: parrotsleep
+    src: http://cultofthepartyparrot.com/parrots/parrotsleep.gif
+  - name: parrotbeer
+    src: http://cultofthepartyparrot.com/parrots/parrotbeer.gif
+  - name: darkbeerparrot
+    src: http://cultofthepartyparrot.com/parrots/darkbeerparrot.gif
+  - name: blondesassyparrot
+    src: http://cultofthepartyparrot.com/parrots/blondesassyparrot.gif
+  - name: bluescluesparrot
+    src: http://cultofthepartyparrot.com/parrots/bluescluesparrot.gif
+  - name: gentlemanparrot
+    src: http://cultofthepartyparrot.com/parrots/hd/gentlemanparrot.gif
+  - name: margaritaparrot
+    src: http://cultofthepartyparrot.com/parrots/margaritaparrot.gif
+  - name: oriolesparrot
+    src: http://cultofthepartyparrot.com/parrots/oriolesparrot.gif
+  - name: dreidelparrot
+    src: http://cultofthepartyparrot.com/parrots/dreidelparrot.gif
+  - name: harrypotterparrot
+    src: http://cultofthepartyparrot.com/parrots/harrypotterparrot.gif
+  - name: fieriparrot
+    src: http://cultofthepartyparrot.com/parrots/fieriparrot.gif
+  - name: upvotepartyparrot
+    src: http://cultofthepartyparrot.com/parrots/upvotepartyparrot.gif
+  - name: twinsparrot
+    src: http://cultofthepartyparrot.com/parrots/twinsparrot.gif
+  - name: tripletsparrot
+    src: http://cultofthepartyparrot.com/parrots/tripletsparrot.gif
+  - name: stableparrot
+    src: http://cultofthepartyparrot.com/parrots/stableparrot.gif
+  - name: shipitparrot
+    src: http://cultofthepartyparrot.com/parrots/shipitparrot.gif
+  - name: skiparrot
+    src: http://cultofthepartyparrot.com/parrots/skiparrot.gif
+  - name: loveparrot
+    src: http://cultofthepartyparrot.com/parrots/loveparrot.gif
+  - name: halalparrot
+    src: http://cultofthepartyparrot.com/parrots/halalparrot.gif
+  - name: nyanparrot
+    src: http://cultofthepartyparrot.com/parrots/nyanparrot.gif
+  - name: wendyparrot
+    src: http://cultofthepartyparrot.com/parrots/hd/wendyparrot.gif
+  - name: popcornparrot
+    src: http://cultofthepartyparrot.com/parrots/hd/popcornparrot.gif
+  - name: donutparrot
+    src: http://cultofthepartyparrot.com/parrots/hd/donutparrot.gif
+  - name: evilparrot
+    src: http://cultofthepartyparrot.com/parrots/evilparrot.gif
+  - name: discoparrot
+    src: http://cultofthepartyparrot.com/parrots/hd/discoparrot.gif
+  - name: matrixparrot
+    src: http://cultofthepartyparrot.com/parrots/matrixparrot.gif
+  - name: papalparrot
+    src: http://cultofthepartyparrot.com/parrots/papalparrot.gif
+  - name: stalkerparrot
+    src: http://cultofthepartyparrot.com/parrots/stalkerparrot.gif
+  - name: scienceparrot
+    src: http://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif
+  - name: prideparrot
+    src: http://cultofthepartyparrot.com/parrots/hd/prideparrot.gif
+  - name: revolutionparrot
+    src: http://cultofthepartyparrot.com/parrots/hd/revolutionparrot.gif
+  - name: fidgetparrot
+    src: http://cultofthepartyparrot.com/parrots/fidgetparrot.gif
+  - name: beretparrot
+    src: http://cultofthepartyparrot.com/parrots/hd/beretparrot.gif
+  - name: tacoparrot
+    src: http://cultofthepartyparrot.com/parrots/tacoparrot.gif
+  - name: ryangoslingparrot
+    src: http://cultofthepartyparrot.com/parrots/ryangoslingparrot.gif
+  - name: luckyparrot
+    src: http://cultofthepartyparrot.com/parrots/luckyparrot.gif
+  - name: birthdaypartyparrot
+    src: http://cultofthepartyparrot.com/parrots/hd/birthdaypartyparrot.gif
+  - name: jediparrot
+    src: http://cultofthepartyparrot.com/parrots/hd/jediparrot.gif
+  - name: angryparrot
+    src: http://cultofthepartyparrot.com/parrots/angryparrot.gif
+  - name: invisbleparrot
+    src: http://cultofthepartyparrot.com/parrots/invisibleparrot.gif
+  - name: rotatingparrot
+    src: http://cultofthepartyparrot.com/parrots/rotatingparrot.gif
+  - name: sushiparrot
+    src: http://cultofthepartyparrot.com/parrots/hd/sushiparrot.gif
+  - name: pumpkinparrot
+    src: http://cultofthepartyparrot.com/parrots/hd/pumpkinparrot.gif
+  - name: angelparrot
+    src: http://cultofthepartyparrot.com/parrots/hd/angelparrot.gif

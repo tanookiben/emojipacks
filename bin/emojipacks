@@ -1,4 +1,4 @@
-#!/usr/bin/env node --harmony
+#!/usr/bin/env node
 
 var program = require('commander');
 var Prompt = require('../lib/prompt');
@@ -13,6 +13,10 @@ var co = require('co');
 program
   .version(require('../package').version)
   .option('-d, --debug', 'Run in debug mode')
+  .option('-s, --subdomain [value]', 'Your Slack subdomain')
+  .option('-e, --email [value]', 'Admin email address')
+  .option('-p, --password [value]', 'Password for admin email')
+  .option('-y, --pack [value]', 'YAML emoji pack')
   .parse(process.argv);
 
 /**
@@ -20,10 +24,26 @@ program
  */
 
 co(function *() {
-  var user = yield Prompt.start();
+  var user = yield Prompt.start(program.subdomain, program.email, program.password, program.pack);
   var pack = yield Pack.get(user.pack);
+  pack = clean(pack);
   user.emojis = pack.emojis;
   var slack = new Slack(user, program.debug);
   yield slack.import();
   process.exit();
 });
+
+/**
+ * Standardize the emoji file.
+ */
+
+function clean(object) {
+  if (!object.emojis) {
+    object.emojis = [];
+    for (var i = 0; i < object.length; i++) {
+      if (!object[i].src) object[i].src = object[i].image_url;
+      object.emojis.push(object[i]);
+    }
+  }
+  return object;
+}

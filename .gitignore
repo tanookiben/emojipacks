@@ -27,5 +27,7 @@ build/Release
 node_modules
 
 ./test
+resized/
 
-.DS_Store
+# Ignore actual batchUpload.sh
+batchUpload.sh
