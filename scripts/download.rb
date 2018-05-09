@@ -12,7 +12,6 @@ def download(token, source, debug)
       if !File.exists?(filepath)
         puts "Saving #{filename}" if debug
         system("wget --quiet -O \"#{filepath}\" #{src} >/dev/null")
-        break
       else
         puts "Skipping #{filename}" if debug
       end
