@@ -1,77 +1,97 @@
-title: Allen
+title: allen
 emojis:
   - name: allenbaka
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenbaka.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allenbdot
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenbdot.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allenblove
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenblove.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allenboss
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenboss.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allencat
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allencat.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allenchamp
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenchamp.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allenclap
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenclap.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allencry
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allencry.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allendespair
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allendespair.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allenfail
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenfail.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
+  - name: allenfeels
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allengasp
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allengasp.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allenghost
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenghost.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allenhaha
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenhaha.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
+  - name: allenheart
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allenheh
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenheh.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allenhehe
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenhehe.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allenhi
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenhi.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
+  - name: allenhmm
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allenhug
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenhug.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allenhuhu
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenhuhu.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allenhuhu1
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenhuhu1.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allenhuhu2
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenhuhu2.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allenhuhu3
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenhuhu3.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allenhuhu4
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenhuhu4.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allenkeke
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenkeke.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allenlewd
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenlewd.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allenlove
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenlove.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allenmad
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenmad.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
+  - name: allenmona
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allenmusic
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenmusic.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
+  - name: allennom
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
+  - name: allens
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
+  - name: allensellout
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
+  - name: allensenpai
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allensleep
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allensleep.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allensmug
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allensmug.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allenstare
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenstare.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
+  - name: allenten
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allenthenk
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenthenk.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allenthink
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenthink.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allenthonk
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenthonk.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allenusa
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenusa.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allenusagasp
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenusagasp.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allenwhat
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenwhat.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
   - name: allenwow
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen/allenwow.png
-  allenwut.png
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
+  - name: allenwut
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/allen
+

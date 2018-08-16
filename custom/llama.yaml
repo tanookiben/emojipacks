@@ -1,4 +1,4 @@
-title: Llama
+title: llama
 emojis:
   - name: llama_angry
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_angry.gif
@@ -66,6 +66,8 @@ emojis:
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_mah_fudz.gif
   - name: llama_mah_yummy_fud
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_mah_yummy_fud.gif
+  - name: llama_me_too
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_me_too.gif
   - name: llama_mona_llama
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_mona_llama.gif
   - name: llama_no_clue
@@ -76,10 +78,10 @@ emojis:
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_orly.gif
   - name: llama_pinch_cheek
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_pinch_cheek.gif
-  - name: llama_pretty
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_pretty.gif
   - name: llama_pretty_please
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_pretty_please.gif
+  - name: llama_pretty
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_pretty.gif
   - name: llama_ramen
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_ramen.gif
   - name: llama_rawr_i_ll_get_you
@@ -122,5 +124,17 @@ emojis:
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_worried.gif
   - name: llama_yawn
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_yawn.gif
+  - name: llama_yay_reverse
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_yay_reverse.gif
   - name: llama_yay
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_yay.gif
+  - name: llama_yayer
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_yayer.gif
+  - name: llama_yayess
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_yayess.gif
+  - name: llama
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama.png
+  - name: llamawat
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llamawat.png
+  - name: llamayes
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llamayes.png

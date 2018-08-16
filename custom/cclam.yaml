@@ -1,27 +1,65 @@
 title: cclam
 emojis:
+  - name: cclambad
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclambad.png
+  - name: cclambaka
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclambaka.png
+  - name: cclamboo
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamboo.png
   - name: cclambork
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclambork.png
   - name: cclamchamp
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamchamp.png
+  - name: cclamchan
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamchan.png
+  - name: cclamcheer
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamcheer.gif
   - name: cclamcool
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamcool.png
   - name: cclamcreep
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamcreep.png
+  - name: cclamcross
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamcross.png
   - name: cclamcry
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamcry.png
+  - name: cclamcute
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamcute.png
+  - name: cclamderp
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamderp.png
   - name: cclamdva
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamdva.png
   - name: cclamfail
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamfail.png
+  - name: cclamfat
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamfat.png
+  - name: cclamfeels
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamfeels.png
+  - name: cclamfu
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamfu.png
+  - name: cclamgasm
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamgasm.png
   - name: cclamglare
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamglare.png
+  - name: cclamgoodmorning
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamgoodmorning.png
+  - name: cclamhaa
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamhaa.png
   - name: cclamheart
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamheart.png
+  - name: cclamheh
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamheh.png
   - name: cclamhehe
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamhehe.png
+  - name: cclamhelp
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamhelp.png
   - name: cclamhi
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamhi.png
+  - name: cclamhmm
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamhmm.png
+  - name: cclamhug
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamhug.png
+  - name: cclamlewd
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamlewd.png
   - name: cclamlink
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamlink.png
   - name: cclamlol
@@ -30,6 +68,8 @@ emojis:
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamlul.png
   - name: cclamlurk
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamlurk.png
+  - name: cclammegacheer
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclammegacheer.gif
   - name: cclamneko
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamneko.png
   - name: cclamno
@@ -38,20 +78,52 @@ emojis:
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamnumber1.png
   - name: cclamoh
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamoh.png
+  - name: cclamr
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamr.png
+  - name: cclamree
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamree.png
   - name: cclamrip
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamrip.png
+  - name: cclams
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclams.png
+  - name: cclamsmart
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamsmart.png
+  - name: cclamsmile
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamsmile.png
+  - name: cclamsmug
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamsmug.png
+  - name: cclamsmug2
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamsmug2.png
+  - name: cclamsmug3
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamsmug3.png
+  - name: cclamstab
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamstab.png
+  - name: cclamstab2
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamstab2.png
   - name: cclamstare
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamstare.png
+  - name: cclamsus
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamsus.png
+  - name: cclamt
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamt.png
   - name: cclamten
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamten.png
   - name: cclamthink
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamthink.png
+  - name: cclamthug
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamthug.png
   - name: cclamtriggered
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamtriggered.png
   - name: cclamturkey
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamturkey.png
   - name: cclamuhh
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamuhh.png
+  - name: cclamw
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamw.png
+  - name: cclamw2
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamw2.png
+  - name: cclamwhine
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamwhine.png
   - name: cclamwhy
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamwhy.png
   - name: cclamwingl
@@ -60,3 +132,5 @@ emojis:
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamwingr.png
   - name: cclamwow
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamwow.png
+  - name: cclamyea
+    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/cclam/cclamyea.png
