@@ -132,9 +132,3 @@ emojis:
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_yayer.gif
   - name: llama_yayess
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama_yayess.gif
-  - name: llama
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llama.png
-  - name: llamawat
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llamawat.png
-  - name: llamayes
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/llama/llamayes.png

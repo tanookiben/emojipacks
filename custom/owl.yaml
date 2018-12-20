@@ -176,12 +176,8 @@ emojis:
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlzzz.png
   - name: owlfireinthehole
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlfireinthehole.png
-  - name: owlnice
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlnice.png
   - name: owlhugeres
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlhugeres.png
-  - name: owlheadshot
-    src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlheadshot.png
   - name: owlfireatwill
     src: https://s3.amazonaws.com/benspotatoes/emojis/twitch/owl/owlfireatwill.png
   - name: owldragonblade
